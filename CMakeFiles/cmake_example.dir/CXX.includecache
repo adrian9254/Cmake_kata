@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/main.cpp
+iostream
+-
+string
+-
+modules/parser.hpp
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/parser.hpp
+
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/equations.cpp
+iostream
+-
+string
+-
+equations.hpp
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/equations.hpp
+
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/equations.hpp
+iostream
+-
+string
+-
+
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/parser.cpp
+iostream
+-
+string
+-
+parser.hpp
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/parser.hpp
+equations.hpp
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/equations.hpp
+
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/modules/parser.hpp
+

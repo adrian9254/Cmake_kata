@@ -1,0 +1,3 @@
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/CMakeFiles/rebuild_cache.dir
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/CMakeFiles/edit_cache.dir
+/home/ap/Notes/NotepadsGuides/Kata_calculator_cmake/CMakeFiles/cmake_example.dir
